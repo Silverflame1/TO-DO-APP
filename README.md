@@ -1,19 +1,24 @@
-# untitled2
+# TO-DO-APP
 
-A new Flutter project.
+A simple To-Do List app built using Flutter.
+
+## Features
+Add new tasks to your to-do list.
+Mark tasks as completed.
+Delete tasks from the list.
 
 ## Getting Started
+Prerequisites:
 
-This project is a starting point for a Flutter application.
+Install Flutter by following the official installation guide.
+Set up Android Studio or any other compatible IDE (such as Visual Studio Code or IntelliJ).
 
-A few resources to get you started if this is your first Flutter project:
+## Run the App:
+run the app-release.apk in any device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Structure:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# To_Do_App
-# TO-DO-APP
-"# TO-DO-APP" 
+The main code resides in the lib directory.
+Modify the main.dart file to customize your app.
+
+## Screenshots
